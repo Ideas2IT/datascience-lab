@@ -1,4 +1,4 @@
-## i2i-datascience-lab
+## datascience-lab
 
 Welcome to the Data Science Experiments Repository of Ideas2IT. We at Ideas2IT, adopt the latest practices and methodologies in Machine Learning. We are a bunch of enthusiastic folks who dabble with the latest ML / AI Developments in the Industry.
 
